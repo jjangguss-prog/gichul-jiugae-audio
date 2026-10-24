@@ -3,7 +3,15 @@
  "patterns": {
   "civ-01": {
    "file": "patterns/civ-01.mp3",
-   "sec": 144.6
+   "sec": 142.3,
+   "parts": {
+    "head": 4.74,
+    "b0": 14.97,
+    "b1": 45.0,
+    "b2": 64.88,
+    "b3": 86.81,
+    "b4": 115.69
+   }
   },
   "civ-02": {
    "file": "patterns/civ-02.mp3",
@@ -20,6 +28,18 @@
   "civ-05": {
    "file": "patterns/civ-05.mp3",
    "sec": 147.6
+  },
+  "civ-06": {
+   "file": "patterns/civ-06.mp3",
+   "sec": 131.1
+  },
+  "civ-07": {
+   "file": "patterns/civ-07.mp3",
+   "sec": 154.3
+  },
+  "civ-08": {
+   "file": "patterns/civ-08.mp3",
+   "sec": 142.0
   }
  }
 }

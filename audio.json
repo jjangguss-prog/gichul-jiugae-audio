@@ -1,0 +1,25 @@
+{
+ "voice": "AI 합성(VoxCPM2), 저장소 주인 본인 목소리",
+ "patterns": {
+  "civ-01": {
+   "file": "patterns/civ-01.mp3",
+   "sec": 144.6
+  },
+  "civ-02": {
+   "file": "patterns/civ-02.mp3",
+   "sec": 131.3
+  },
+  "civ-03": {
+   "file": "patterns/civ-03.mp3",
+   "sec": 139.0
+  },
+  "civ-04": {
+   "file": "patterns/civ-04.mp3",
+   "sec": 148.7
+  },
+  "civ-05": {
+   "file": "patterns/civ-05.mp3",
+   "sec": 147.6
+  }
+ }
+}
